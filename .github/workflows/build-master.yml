@@ -6,12 +6,12 @@ on:
       - master
 
 env:
-  FRONTEND: galleog/piggymetrics-frontend
-  API_GATEWAY: galleog/piggymetrics-api-gateway
-  ACCOUNT_SERVICE: galleog/piggymetrics-account-service
-  STATISTICS_SERVICE: galleog/piggymetrics-statistics-service
-  NOTIFICATION_SERVICE: galleog/piggymetrics-notification-service
-  KEYCLOAK_PROVIDER: galleog/piggymetrics-keycloak-provider
+  FRONTEND: vadimtishkovsky/piggymetrics-frontend
+  API_GATEWAY: vadimtishkovsky/piggymetrics-api-gateway
+  ACCOUNT_SERVICE: vadimtishkovsky/piggymetrics-account-service
+  STATISTICS_SERVICE: vadimtishkovsky/piggymetrics-statistics-service
+  NOTIFICATION_SERVICE: vadimtishkovsky/piggymetrics-notification-service
+  KEYCLOAK_PROVIDER: vadimtishkovsky/piggymetrics-keycloak-provider
 
 jobs:
   build:
