@@ -14,7 +14,7 @@ It is derived from the MIT-licensed code of Alexander Lukyanchikov, [PiggyMetric
 
 PiggyMetrics was decomposed into three core microservices. All of them are independently deployable applications, organized around certain business domains.
 
-<img width="880" alt="Functional services" src="https://cloud.githubusercontent.com/assets/6069066/13900465/730f2922-ee20-11e5-8df0-e7b51c668847.png">
+<img width="880" alt="Functional services" src="https://cloud.githubusercontent.com/assets/6069066/13900465/730f2922-ee20-11e5-8df0-e7b51c668847.png"> 
 
 #### Account service
 Contains general user input logic and validation: incomes/expenses items, savings and account settings.
